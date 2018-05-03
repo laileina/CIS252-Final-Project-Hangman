@@ -1,0 +1,12 @@
+orange
+apple
+banana
+strawberry
+pineapple
+grape
+tomato
+raspberry
+mango
+papaya
+loquat
+persimmon
